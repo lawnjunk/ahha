@@ -1,3 +1,5 @@
+use ahha;
+
 fn main() {
-    println!("Hello, world!");
+    ahha::help();
 }
